@@ -17,14 +17,6 @@ module.exports = [
         message: 'Please pick a preset',
         choices: [
             {
-                name: 'vue-vant',
-                value: 'vue-vant'
-            },
-            {
-                name: 'vue-vant-tabs',
-                value: 'vue-vant-tabs'
-            },
-            {
                 name: 'vue-vant-ts',
                 value: 'vue-vant-ts'
             },
@@ -33,6 +25,6 @@ module.exports = [
                 value: 'vue-vant-tabs-ts'
             }
         ],
-        default: 'vue-vant'
+        default: 'vue-vant-ts'
     }
 ]
