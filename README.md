@@ -8,7 +8,7 @@ vue + vant js version:
 
 ### the features
 
-`vant`, `vue`, 
+`vant`, `vue`, `capacitor`
 
 `typescript`, `Router`, `Babel`, `Vuex`, `CSS Pre-processors`, `Linter / Formatter`
 
