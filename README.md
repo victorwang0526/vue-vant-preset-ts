@@ -1,6 +1,6 @@
 ##  vue vant preset
 
-vue + vant js version: 
+vue + vant js version: https://github.com/victorwang0526/vue-vant-preset
 
 ### test local
 
@@ -16,7 +16,7 @@ vue + vant js version:
 
 ## Install
 
-> vue create -p victorwang0526/vue-vant-preset my-project
+> vue create -p victorwang0526/vue-vant-preset-ts my-project
 
 ### build dist first
 
